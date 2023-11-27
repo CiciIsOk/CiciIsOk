@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CiciIsOk
-- 🌱 I’m Front-End(React) developer
+- 🌱 I’m confused
 - 📫 you can reach me at tsitso.iobashvili.1@btu.edu.ge
 -  My LinkedIn: https://www.linkedin.com/in/tsitsi-iobashvili-99546922b/
 
